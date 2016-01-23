@@ -14,4 +14,4 @@ Optional: User can see the total/2 and total/3 easy to divide the total with fri
 Optional: Added gradient background and spent some time playing with the RelativeLayout.
 
 
-[[https://github.com/soopark818/tips/blob/master/TipCalculator2.gif]]
+![ScreenShot](https://github.com/soopark818/tips/blob/master/TipCalculator2.gif)
