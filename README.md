@@ -1,5 +1,5 @@
-# tips
-tip calculator
+# Tips
+Tip calculator
 
 This is an iOS demo application for tip calculator. 
 
