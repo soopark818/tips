@@ -14,4 +14,6 @@ Completed user stories:
 - [x] Optional: Added gradient background and spent some time playing with the RelativeLayout.
 
 
+Walkthrough of all user stories:
+
 ![ScreenShot](https://github.com/soopark818/tips/blob/master/TipCalculator2.gif)
